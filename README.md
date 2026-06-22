@@ -59,7 +59,6 @@ Heart_Disease_Prediction/
 ├── Logistic_Regression_heart.pkl
 ├── heart_scaler.pkl
 ├── heart_columns.pkl
-├── requirements.txt
 └── README.md
 ```
 
